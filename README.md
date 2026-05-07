@@ -7,38 +7,38 @@ My tech stack:
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,react,express,postgres,mongodb,docker,aws,rabbitmq,github,postman" />
 </p>
 
-My projects:
+# My projects:
 
-## 🎬 CineMatch
+## CineMatch
 
 Repository: [CineMatch](https://github.com/sagivt1/CineMatch)
 
-<img src="https://raw.githubusercontent.com/hamuzi/hamuzi/assets/Cinematch.png" width="900"/>
+<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Cinematch.png" width="400"/>
 
 CineMatch is a scalable movie recommendation platform based on microservices architecture.  
 The system includes authentication services, API gateway routing, AI-powered recommendations, and asynchronous communication between services. Built to demonstrate backend architecture, distributed systems concepts, secure authentication flows, and cloud-ready deployment practices.
 
-## 🗺️ Crime Statistics Dashboard - Research project
+## Crime Statistics Dashboard - Research project
 
 Repository: [Crime Statistics Dashboard](https://github.com/hamuzi/CrimeStatistics)
 
-<img src="https://raw.githubusercontent.com/hamuzi/hamuzi/assets/Crime.png" width="900"/>
+<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Crime.png" width="400"/>
 
 Crime Statistics Dashboard is an interactive GIS-based analytics platform for visualizing and exploring crime data across Israel.
 The system combines dynamic maps, statistical analysis, filtering capabilities, and geographic layers to help users analyze crime patterns by city, district, crime type, and time period.
 The project focuses on data visualization, geographic information systems (GIS), backend data processing, and interactive dashboard development using modern Python technologies.
 
-## 🗺️ Community Mapping Project - Research project
+## Community Mapping Project - Research project
 
 Repository: [Community Mapping](https://github.com/ofekatayak/CommUnity)
 
-<img src="https://raw.githubusercontent.com/hamuzi/hamuzi/assets/Community.png" width="900"/>
+<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Community.png" width="400"/>
 
 An interactive GIS-based platform for visualizing and analyzing community data using maps and clustering algorithms.  
 The project combines statistical analysis, GeoJSON layers, and dynamic filtering to classify communities and display insights visually.  
 Focused on data visualization, frontend interaction, and geographic information systems.
 
-## 🚚 Zariz - Deliveries 
+## Zariz - Deliveries 
 
 Repository: [Deliveries - In progress](https://github.com/hamuzi/Deliveries)
 
