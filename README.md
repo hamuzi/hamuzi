@@ -39,6 +39,7 @@ Repository: [Crime Statistics Dashboard](https://github.com/hamuzi/CrimeStatisti
 ![Plotly](https://img.shields.io/badge/Plotly-339933?style=for-the-badge)
 ![GIS](https://img.shields.io/badge/GIS-2496ED?style=for-the-badge)
 ![DashPlotly](https://img.shields.io/badge/DashPlotly-FF6600?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-888999?style=for-the-badge)
 
 
 Crime Statistics Dashboard is an interactive GIS-based analytics platform for visualizing and exploring crime data across Israel.
