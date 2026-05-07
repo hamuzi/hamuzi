@@ -15,14 +15,15 @@ Repository: [CineMatch](https://github.com/sagivt1/CineMatch)
 
 <img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Cinematch.png" width="400"/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-3178C6?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)
-![restAPI](https://img.shields.io/badge/RestAPI-AAA333?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-3178C6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3178C6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-3178C6?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge)
+![RestAPI](https://img.shields.io/badge/RestAPI-3178C6?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-3178C6?style=for-the-badge)
 
 
 CineMatch is a scalable movie recommendation platform based on microservices architecture.  
@@ -35,11 +36,11 @@ Repository: [Crime Statistics Dashboard](https://github.com/hamuzi/CrimeStatisti
 <img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Community.png" width="400"/>
 
 
-![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-339933?style=for-the-badge)
-![GIS](https://img.shields.io/badge/GIS-2496ED?style=for-the-badge)
-![DashPlotly](https://img.shields.io/badge/DashPlotly-FF6600?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-888999?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3178C6?style=for-the-badge)
+![GIS](https://img.shields.io/badge/GIS-3178C6?style=for-the-badge)
+![DashPlotly](https://img.shields.io/badge/DashPlotly-3178C6?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-3178C6?style=for-the-badge)
 
 
 Crime Statistics Dashboard is an interactive GIS-based analytics platform for visualizing and exploring crime data across Israel.
@@ -52,10 +53,10 @@ Repository: [Community Mapping](https://github.com/ofekatayak/CommUnity)
 
 <img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Crime.png" width="400"/>
 
-![FireBase](https://img.shields.io/badge/FireBase-555222?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-339933?style=for-the-badge)
-![GIS](https://img.shields.io/badge/GIS-2496ED?style=for-the-badge)
-![React](https://img.shields.io/badge/React-4169E1?style=for-the-badge)
+![FireBase](https://img.shields.io/badge/FireBase-3178C6?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3178C6?style=for-the-badge)
+![GIS](https://img.shields.io/badge/GIS-3178C6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-3178C6?style=for-the-badge)
 
 An interactive GIS-based platform for visualizing and analyzing community data using maps and clustering algorithms.  
 The project combines statistical analysis, GeoJSON layers, and dynamic filtering to classify communities and display insights visually.  
