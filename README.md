@@ -22,6 +22,7 @@ Repository: [CineMatch](https://github.com/sagivt1/CineMatch)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-FFF000?style=for-the-badge)
 
 CineMatch is a scalable movie recommendation platform based on microservices architecture.  
 The system includes authentication services, API gateway routing, AI-powered recommendations, and asynchronous communication between services. Built to demonstrate backend architecture, distributed systems concepts, secure authentication flows, and cloud-ready deployment practices.
