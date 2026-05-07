@@ -1,6 +1,6 @@
 # Hi, I'm Sahar 👋
 
-Software engineer graduate and Junior Backend / Full-Stack Developer passionate about building scalable backend systems, microservices architectures, and modern web applications. Focused on writing clean, maintainable code and continuously improving my software engineering skills through hands-on projects and real-world development experience. Interested in backend architecture, system design, cloud technologies, and building applications that solve real problems. Motivated by learning new technologies, working in collaborative environments, and constantly growing as a developer. 
+Software engineer graduate and Junior Backend Developer passionate about building scalable backend systems, microservices architectures, and modern web applications. Focused on writing clean, maintainable code and continuously improving my software engineering skills through hands-on projects and real-world development experience. Interested in backend architecture, system design, cloud technologies, and building applications that solve real problems. Motivated by learning new technologies, working in collaborative environments, and constantly growing as a developer. 
 
 My tech stack:
 <p align="left">
