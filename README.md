@@ -22,7 +22,8 @@ Repository: [CineMatch](https://github.com/sagivt1/CineMatch)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-FFF000?style=for-the-badge)
+![restAPI](https://img.shields.io/badge/RestAPI-AAA333?style=for-the-badge)
+
 
 CineMatch is a scalable movie recommendation platform based on microservices architecture.  
 The system includes authentication services, API gateway routing, AI-powered recommendations, and asynchronous communication between services. Built to demonstrate backend architecture, distributed systems concepts, secure authentication flows, and cloud-ready deployment practices.
@@ -50,7 +51,7 @@ Repository: [Community Mapping](https://github.com/ofekatayak/CommUnity)
 
 <img src="https://github.com/hamuzi/hamuzi/blob/main/assets/Crime.png" width="400"/>
 
-![Python](https://img.shields.io/badge/Python-009688?style=for-the-badge)
+![FireBase](https://img.shields.io/badge/FireBase-555222?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-339933?style=for-the-badge)
 ![GIS](https://img.shields.io/badge/GIS-2496ED?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-4169E1?style=for-the-badge)
