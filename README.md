@@ -64,7 +64,7 @@ Focused on data visualization, frontend interaction, and geographic information 
 
 ## Zariz - Deliveries 
 
-Repository: [Deliveries - In progress](https://github.com/hamuzi/Deliveries)
+Repository: [Deliveries - In progress](https://github.com/hamuzi/Zariz)
 
 A role-based delivery management platform designed for businesses, drivers, and administrators.  
 The system supports secure JWT authentication, RBAC authorization, delivery lifecycle tracking, and audit logging.  
