@@ -33,7 +33,7 @@ The system includes authentication services, API gateway routing, AI-powered rec
 
 Repository: [Zariz - In progress](https://github.com/hamuzi/Zariz)
 
-<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/%20zariz.png" width="400"/>
+<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/%20zariz.png" width="400" height="200"/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-3178C6?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge)
