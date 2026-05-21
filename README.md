@@ -29,6 +29,25 @@ Repository: [CineMatch](https://github.com/sagivt1/CineMatch)
 CineMatch is a scalable movie recommendation platform based on microservices architecture.  
 The system includes authentication services, API gateway routing, AI-powered recommendations, and asynchronous communication between services. Built to demonstrate backend architecture, distributed systems concepts, secure authentication flows, and cloud-ready deployment practices.
 
+## Zariz - Deliveries 
+
+Repository: [Zariz - In progress](https://github.com/hamuzi/Zariz)
+
+<img src="https://github.com/hamuzi/hamuzi/blob/main/assets/zariz.png" width="400"/>
+
+![Node.js](https://img.shields.io/badge/Node.js-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-3178C6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-3178C6?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-3178C6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-3178C6?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge)
+![RestAPI](https://img.shields.io/badge/RestAPI-3178C6?style=for-the-badge)
+
+A role-based delivery management platform designed for businesses, drivers, and administrators.  
+The system supports secure JWT authentication, RBAC authorization, delivery lifecycle tracking, and audit logging.  
+Focused on backend APIs, scalable business logic, and production-oriented system architecture.
+
 ## Crime Statistics Dashboard - Research project
 
 Repository: [Crime Statistics Dashboard](https://github.com/hamuzi/CrimeStatistics)
@@ -62,11 +81,4 @@ An interactive GIS-based platform for visualizing and analyzing community data u
 The project combines statistical analysis, GeoJSON layers, and dynamic filtering to classify communities and display insights visually.  
 Focused on data visualization, frontend interaction, and geographic information systems.
 
-## Zariz - Deliveries 
-
-Repository: [Deliveries - In progress](https://github.com/hamuzi/Zariz)
-
-A role-based delivery management platform designed for businesses, drivers, and administrators.  
-The system supports secure JWT authentication, RBAC authorization, delivery lifecycle tracking, and audit logging.  
-Focused on backend APIs, scalable business logic, and production-oriented system architecture.
 
